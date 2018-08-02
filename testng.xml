@@ -3,7 +3,6 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="smokeTest.ValidateSmokeTest"/>
       <class name="regressionTestSuite.OldRegressionTestcase"/>
       <class name="Package1.AppTest"/>
     </classes>

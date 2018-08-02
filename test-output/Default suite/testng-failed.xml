@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="regressionTestSuite.OldRegressionTestcase">
+        <methods>
+          <include name="MT728"/>
+          <include name="MT1522"/>
+          <include name="MT837"/>
+          <include name="MT1520"/>
+          <include name="MT729"/>
+          <include name="MT839"/>
+          <include name="MT1526"/>
+          <include name="MT731"/>
+          <include name="MT1534"/>
+          <include name="MT1535"/>
+          <include name="MT1521"/>
+          <include name="MT1519"/>
+          <include name="MT730"/>
+          <include name="MT840"/>
+          <include name="MT1528"/>
+          <include name="MT1525"/>
+        </methods>
+      </class> <!-- regressionTestSuite.OldRegressionTestcase -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
